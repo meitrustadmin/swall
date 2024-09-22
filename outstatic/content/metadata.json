@@ -1,6 +1,6 @@
 {
-  "commit": "b475ed51bce21b4fc22928e8671ee88cd94674ae",
-  "generated": "2024-09-22T07:18:12.104Z",
+  "commit": "76f845f2415fbc8193668be173d46c9d1ce764b3",
+  "generated": "2024-09-22T07:19:48.052Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,23 +19,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
-        "hash": "3707858083",
-        "path": "/outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "title": "If you want to make the wrong decision, ask everyone"
     },
     {
       "__outstatic": {
@@ -138,6 +121,25 @@
       "tags": [
       ],
       "title": "Decentralized Content Creation: Why Permissionless Matters"
+    },
+    {
+      "__outstatic": {
+        "commit": "76f845f2415fbc8193668be173d46c9d1ce764b3",
+        "hash": "353933388",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
     }
   ]
 }
