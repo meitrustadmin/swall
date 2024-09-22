@@ -43,7 +43,7 @@ export default async function Index() {
                 {/* </div> */}
             {/* </div> */}
 
-            <div className='bg-white'>
+            <div className='bg-white pb-20'>
                 <div className="max-w-6xl mx-auto px-5">
                     <div className='text-violet-950 text-5xl font-bold font-default pt-14'>
                         Shaping Tomorrow’s Creator Economy
@@ -96,8 +96,8 @@ export default async function Index() {
                     </div>
                 </div>
             </div>
-            <div className='pt-5 pb-10 mt-10 bg-purpple'>
-                <div className='text-center text-white text-5xl font-normal font-default mt-5'>Fun Facts</div>
+            <div className=' bg-purpple py-10'>
+                <div className='text-center text-white text-5xl font-normal font-default'>Fun Facts</div>
                 <div className='text-center text-white/80 text-xl font-normal font-default px-32 mt-10 '>Memes are more than just entertainment — they’re a cultural phenomenon shaping digital communication, engagement, and even the global economy!</div>
                 <div className='grid grid-cols-3 gap-x-2 px-20 mt-10'>
                     <div className='bg-yellow rounded-xl'>
