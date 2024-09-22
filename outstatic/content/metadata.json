@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2024-09-22T07:16:31.355Z",
+  "commit": "b475ed51bce21b4fc22928e8671ee88cd94674ae",
+  "generated": "2024-09-22T07:18:12.104Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,23 +36,6 @@
       "slug": "the-wrong-decision",
       "status": "published",
       "title": "If you want to make the wrong decision, ask everyone"
-    },
-    {
-      "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
-        "path": "/outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "title": "Nothing is wrong. Everything is perfect"
     },
     {
       "__outstatic": {
@@ -136,6 +119,25 @@
         }
       ],
       "title": "The Future of Memes: Turning Social Channels into Digital Assets"
+    },
+    {
+      "__outstatic": {
+        "commit": "b475ed51bce21b4fc22928e8671ee88cd94674ae",
+        "hash": "2532970502",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Decentralized Content Creation: Why Permissionless Matters"
     }
   ]
 }
