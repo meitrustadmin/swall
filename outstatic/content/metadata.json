@@ -1,6 +1,6 @@
 {
-  "commit": "0be1de82e3d377dd99684985374b90a147c4c03e",
-  "generated": "2024-09-22T07:22:44.625Z",
+  "commit": "00a54f69ac96079d66fe4f977ad040aa7038b1de",
+  "generated": "2024-09-22T07:23:32.380Z",
   "metadata": [
     {
       "__outstatic": {
@@ -74,37 +74,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "3316884152",
-        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/jupiter-spaceship.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "The Future of Memes: Turning Social Channels into Digital Assets"
-    },
-    {
-      "__outstatic": {
         "commit": "76f845f2415fbc8193668be173d46c9d1ce764b3",
         "hash": "353933388",
         "path": "outstatic/content/posts/the-wrong-decision.md"
@@ -140,6 +109,37 @@
       "tags": [
       ],
       "title": "Decentralized Content Creation: Why Permissionless Matters"
+    },
+    {
+      "__outstatic": {
+        "commit": "00a54f69ac96079d66fe4f977ad040aa7038b1de",
+        "hash": "2922619733",
+        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/jupiter-spaceship.png",
+      "description": "Memes are more than just entertainment; they're a powerful digital expression. With Swall, content creators can turn their meme channels into valuable digital assets. In this blog, we explore how this transformation is revolutionizing how we think about content ownership and monetization.",
+      "publishedAt": "2022-07-14T02:34:02.322Z",
+      "slug": "how-to-create-an-outstatic-blog",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "The Future of Memes: Turning Social Channels into Digital Assets"
     }
   ]
 }

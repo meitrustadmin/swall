@@ -1,7 +1,7 @@
 ---
 title: 'The Future of Memes: Turning Social Channels into Digital Assets'
 status: 'published'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
+description: 'Memes are more than just entertainment; they''re a powerful digital expression. With Swall, content creators can turn their meme channels into valuable digital assets. In this blog, we explore how this transformation is revolutionizing how we think about content ownership and monetization.'
 coverImage: '/images/jupiter-spaceship.png'
 tags: [{"label":"NextJs","value":"nextJs"},{"label":"GitHub","value":"gitHub"},{"label":"Outstatic","value":"outstatic"}]
 author:
