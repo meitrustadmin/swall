@@ -1,17 +1,13 @@
 ---
-title: 'Learn how to create your blog with Outstatic'
+title: 'The Future of Memes: Turning Social Channels into Digital Assets'
 status: 'published'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
+description: 'Memes are more than just entertainment; they''re a powerful digital expression. With Swall, content creators can turn their meme channels into valuable digital assets. In this blog, we explore how this transformation is revolutionizing how we think about content ownership and monetization.'
 coverImage: '/images/jupiter-spaceship.png'
-publishedAt: '2022-07-14T02:34:02.322Z'
-tags:
-  [
-    { 'label': 'NextJs', value: 'nextJs' },
-    { 'label': 'GitHub', value: 'gitHub' },
-    { 'label': 'Outstatic', value: 'outstatic' }
-  ]
+tags: [{"label":"NextJs","value":"nextJs"},{"label":"GitHub","value":"gitHub"},{"label":"Outstatic","value":"outstatic"}]
 author:
-  name: Andre Vitorio
+  name: 'Andre Vitorio'
+slug: 'how-to-create-an-outstatic-blog'
+publishedAt: '2022-07-14T02:34:02.322Z'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

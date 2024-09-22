@@ -1,11 +1,12 @@
 ---
-title: 'Nothing is wrong. Everything is perfect'
+title: 'Decentralized Content Creation: Why Permissionless Matters'
 status: 'published'
 author:
   name: 'Andre Vitorio'
 slug: 'nothing-wrong'
-description: 'One more day, one more joy. I feel blessed.'
+description: 'In traditional social media, creators often face restrictions, censorship, and unfair revenue sharing. Swall changes the game by offering a permissionless environment where creators fully control their content, value creation, and distribution. Learn why decentralization is key to the future of content creation.'
 coverImage: '/images/industrial-pattern.png'
+tags: []
 publishedAt: '2022-09-14T17:55:40.452Z'
 ---
 

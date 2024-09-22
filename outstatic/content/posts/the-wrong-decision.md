@@ -1,11 +1,13 @@
 ---
-title: 'If you want to make the wrong decision, ask everyone'
+title: 'Monetizing Memes: How to Use Swall’s Bonding Curve'
 status: 'published'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
+description: 'Understanding the bonding curve is essential to maximizing your earnings on Swall. This blog breaks down the concept in simple terms, explaining how it works, why it benefits creators, and how followers can engage with it to support their favorite channels.'
 coverImage: '/images/skyline.png'
-publishedAt: '2022-03-26T05:35:07.322Z'
 author:
-  name: Naval Ravikant
+  name: 'Naval Ravikant'
+slug: 'the-wrong-decision'
+tags: [{"value":"outstatic","label":"Outstatic"}]
+publishedAt: '2022-03-26T05:35:07.322Z'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
