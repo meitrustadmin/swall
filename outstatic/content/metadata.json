@@ -1,6 +1,6 @@
 {
-  "commit": "f5c6525194427cb9b0535cc4df0485e1c3677385",
-  "generated": "2024-09-22T07:41:17.936Z",
+  "commit": "7f4632564f620646a86b588d40f213a9dd7fca4f",
+  "generated": "2024-09-22T07:49:58.692Z",
   "metadata": [
     {
       "__outstatic": {
@@ -92,6 +92,42 @@
         }
       ],
       "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
+    },
+    {
+      "__outstatic": {
+        "commit": "4bc23d65eea51e31ba2b563ee04c49ea96a2f07a",
+        "hash": "3071418776",
+        "path": "outstatic/content/pages/term-of-use.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/181721044?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-22T08:35:33.967Z",
+      "slug": "term-of-use",
+      "status": "draft",
+      "title": "Term of Use"
+    },
+    {
+      "__outstatic": {
+        "commit": "7f4632564f620646a86b588d40f213a9dd7fca4f",
+        "hash": "1601306521",
+        "path": "outstatic/content/pages/privacy-policy.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/181721044?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-22T08:37:40.769Z",
+      "slug": "privacy-policy",
+      "status": "draft",
+      "title": "Privacy Policy"
     }
   ]
 }
