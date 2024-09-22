@@ -1,4 +1,5 @@
 import Footer from './Footer'
+import Footer2 from './Footer2'
 import Header3 from './Header3'
 
 type Props = {
@@ -13,7 +14,7 @@ const Layout = ({ children }: Props) => {
             <div className="max-w-6xl mx-auto px-5">
                 <Header3/>
                 <main>{children}</main>
-                <Footer />
+                <Footer2 />
             </div>
         </div>
         

@@ -6,6 +6,7 @@ import Header2 from '@/components/Header2'
 import Header3 from '@/components/Header3'
 import { ArrowRightCircleIcon } from '@heroicons/react/24/outline'
 import * as Separator from '@radix-ui/react-separator';
+import ContentGrid2 from '@/components/ContentGrid2'
 
 export default async function Index() {
   const { content, allPosts, allProjects } = await getData()
@@ -149,14 +150,17 @@ export default async function Index() {
                         </div>
                     </div>
             </div>
-            {allPosts.length > 0 && (
-            <ContentGrid
-                title=""
-                items={allPosts}
-                collection="posts"
-                priority
-            />
-            )}
+            <div className='my-10 mx-5'>
+                {allPosts.length > 0 && (
+                <ContentGrid2
+                    title=""
+                    items={allPosts}
+                    collection="posts"
+                    priority
+                />
+                )}
+            </div>
+            
             <div className='bg-purpple py-4'>
                 <div className='text-center text-white text-6xl font-normal font-default'>Our Approach</div>
                 {/* <div className='text-white/80 text-2xl font-normal font-default px-72'>The Swall Flywheel is your roadmap to unlock the full potential of your channel, 

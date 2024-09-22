@@ -7,7 +7,7 @@ const navigation = [
     { name: 'Support', href: '#' },
     { name: 'Testnet', href: '#' },
     { name: 'Sign Up', href: '#' },
-  ]
+]
 
 export default function Header3() {
     return (
