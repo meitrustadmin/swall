@@ -1,6 +1,6 @@
 {
-  "commit": "76f845f2415fbc8193668be173d46c9d1ce764b3",
-  "generated": "2024-09-22T07:19:48.052Z",
+  "commit": "0be1de82e3d377dd99684985374b90a147c4c03e",
+  "generated": "2024-09-22T07:22:44.625Z",
   "metadata": [
     {
       "__outstatic": {
@@ -105,25 +105,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b475ed51bce21b4fc22928e8671ee88cd94674ae",
-        "hash": "2532970502",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Decentralized Content Creation: Why Permissionless Matters"
-    },
-    {
-      "__outstatic": {
         "commit": "76f845f2415fbc8193668be173d46c9d1ce764b3",
         "hash": "353933388",
         "path": "outstatic/content/posts/the-wrong-decision.md"
@@ -140,6 +121,25 @@
       "tags": [
       ],
       "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
+    },
+    {
+      "__outstatic": {
+        "commit": "0be1de82e3d377dd99684985374b90a147c4c03e",
+        "hash": "3478761597",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "In traditional social media, creators often face restrictions, censorship, and unfair revenue sharing. Swall changes the game by offering a permissionless environment where creators fully control their content, value creation, and distribution. Learn why decentralization is key to the future of content creation.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Decentralized Content Creation: Why Permissionless Matters"
     }
   ]
 }
