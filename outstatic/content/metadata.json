@@ -1,6 +1,6 @@
 {
-  "commit": "00a54f69ac96079d66fe4f977ad040aa7038b1de",
-  "generated": "2024-09-22T07:23:32.380Z",
+  "commit": "b90c560e741fcf32e22aa4bec11ff495cb4b362b",
+  "generated": "2024-09-22T07:24:10.961Z",
   "metadata": [
     {
       "__outstatic": {
@@ -74,25 +74,6 @@
     },
     {
       "__outstatic": {
-        "commit": "76f845f2415fbc8193668be173d46c9d1ce764b3",
-        "hash": "353933388",
-        "path": "outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
-    },
-    {
-      "__outstatic": {
         "commit": "0be1de82e3d377dd99684985374b90a147c4c03e",
         "hash": "3478761597",
         "path": "outstatic/content/posts/nothing-wrong.md"
@@ -140,6 +121,29 @@
         }
       ],
       "title": "The Future of Memes: Turning Social Channels into Digital Assets"
+    },
+    {
+      "__outstatic": {
+        "commit": "b90c560e741fcf32e22aa4bec11ff495cb4b362b",
+        "hash": "239691078",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/skyline.png",
+      "description": "Understanding the bonding curve is essential to maximizing your earnings on Swall. This blog breaks down the concept in simple terms, explaining how it works, why it benefits creators, and how followers can engage with it to support their favorite channels.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
     }
   ]
 }

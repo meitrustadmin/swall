@@ -1,12 +1,12 @@
 ---
 title: 'Monetizing Memes: How to Use Swall’s Bonding Curve'
 status: 'published'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
+description: 'Understanding the bonding curve is essential to maximizing your earnings on Swall. This blog breaks down the concept in simple terms, explaining how it works, why it benefits creators, and how followers can engage with it to support their favorite channels.'
 coverImage: '/images/skyline.png'
 author:
   name: 'Naval Ravikant'
 slug: 'the-wrong-decision'
-tags: ''
+tags: [{"value":"outstatic","label":"Outstatic"}]
 publishedAt: '2022-03-26T05:35:07.322Z'
 ---
 
