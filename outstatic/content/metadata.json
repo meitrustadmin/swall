@@ -94,24 +94,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7f4632564f620646a86b588d40f213a9dd7fca4f",
-        "hash": "1601306521",
-        "path": "outstatic/content/pages/privacy-policy.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/181721044?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-09-22T08:37:40.769Z",
-      "slug": "privacy-policy",
-      "status": "draft",
-      "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
         "commit": "b308521c407c36c2ea3cdadde0437b396ee2cba3",
         "hash": "3029406075",
         "path": "outstatic/content/posts/nothing-wrong.md"
