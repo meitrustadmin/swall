@@ -1,6 +1,6 @@
 {
   "commit": "60ae5319864a800949c016496e4fb53d8d7002b8",
-  "generated": "2024-09-23T15:02:36.178Z",
+  "generated": "2024-09-23T15:06:13.885Z",
   "metadata": [
     {
       "__outstatic": {
@@ -132,8 +132,8 @@
     {
       "__outstatic": {
         "commit": "60ae5319864a800949c016496e4fb53d8d7002b8",
-        "hash": "1826146107",
-        "path": "outstatic/content/posts/ddecentralized-content-creation.md"
+        "hash": "2301922090",
+        "path": "outstatic/content/posts/content-creation.md"
       },
       "author": {
         "name": "Andre Vitorio"
@@ -142,7 +142,7 @@
       "coverImage": "/images/industrial-pattern.png",
       "description": "In traditional social media, creators often face restrictions, censorship, and unfair revenue sharing. Swall changes the game by offering a permissionless environment where creators fully control their content, value creation, and distribution. Learn why decentralization is key to the future of content creation.",
       "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "ddecentralized-content-creation",
+      "slug": "content-creation",
       "status": "published",
       "tags": [
       ],
