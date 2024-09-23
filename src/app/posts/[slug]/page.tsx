@@ -57,7 +57,7 @@ export default async function Post(params: Params) {
   return (
     <Layout>
       <div className="max-w-6xl mx-auto px-5">
-        <Header />
+        {/* <Header /> */}
         <article className="mb-32">
           <div className="relative mb-2 md:mb-4 sm:mx-0 w-full h-52 md:h-96">
             <Image
@@ -68,7 +68,7 @@ export default async function Post(params: Params) {
               priority
             />
           </div>
-          {Array.isArray(post?.tags)
+          {/* {Array.isArray(post?.tags)
             ? post.tags.map(({ label }) => (
                 <span
                   key="label"
@@ -77,21 +77,21 @@ export default async function Post(params: Params) {
                   {label}
                 </span>
               ))
-            : null}
-          <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2">
-            {post.title}
-          </h1>
-          <div className="hidden md:block md:mb-12 text-slate-600">
+            : null} */}
+            <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2">
+                {post.title}
+            </h1>
+          {/* <div className="hidden md:block md:mb-12 text-slate-600">
             Written on <DateFormatter dateString={post.publishedAt} /> by{' '}
             {post?.author?.name || ''}.
-          </div>
-          <hr className="border-neutral-200 mt-10 mb-10" />
-          <div className="max-w-2xl mx-auto">
-            <div
-              className="prose lg:prose-xl"
-              dangerouslySetInnerHTML={{ __html: post.content }}
-            />
-          </div>
+          </div> */}
+            {/* <hr className="border-neutral-200 mt-10 mb-10" /> */}
+            <div className="w-full text-violet-950 text-base font-normal">
+                <div
+                    className=""
+                    dangerouslySetInnerHTML={{ __html: post.content }}
+                />
+            </div>
         </article>
       </div>
     </Layout>
