@@ -31,14 +31,14 @@ const Footer2 = () => {
             <div>
                 <div className="flex flex-col mt-3">
                     {navigation.map((item) => (
-                        <a key={item.name} href={item.href} className="text-base leading-6 font-default text-violet-900">
+                        <a key={item.name} href={item.href} className="text-base leading-6 text-violet-900">
                         {item.name}
                         </a>
                     ))}
                 </div>
             </div>
         </div>
-        <div className="text-center text-violet-950 text-base font-normal font-default mt-4">© 2024 COPYRIGHT SWALL. ALL RIGHTS RESERVED.</div>
+        <div className="text-center text-violet-950 text-base font-normal mt-4">© 2024 COPYRIGHT SWALL. ALL RIGHTS RESERVED.</div>
     </footer>
   )
 }

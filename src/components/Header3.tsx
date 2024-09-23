@@ -31,7 +31,7 @@ export default function Header3() {
                     <div className="">
                         <div className="flex bg-violet-950 px-4 py-2 items-center rounded-md gap-x-2">
                             <div>
-                                <a href="#" className="text-yellow text-xl font-bold font-default">
+                                <a href="#" className="text-yellow text-xl font-bold">
                                     Launch App 
                                 </a>
                                 {/* <span aria-hidden="true"></span> */}
