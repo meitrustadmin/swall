@@ -1,6 +1,6 @@
 {
-  "commit": "7f4632564f620646a86b588d40f213a9dd7fca4f",
-  "generated": "2024-09-22T07:49:58.692Z",
+  "commit": "c1824f7f2e51bcd9b19da356c1989752c0f4310c",
+  "generated": "2024-09-23T06:54:11.974Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,25 +19,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "0be1de82e3d377dd99684985374b90a147c4c03e",
-        "hash": "3478761597",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "In traditional social media, creators often face restrictions, censorship, and unfair revenue sharing. Swall changes the game by offering a permissionless environment where creators fully control their content, value creation, and distribution. Learn why decentralization is key to the future of content creation.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Decentralized Content Creation: Why Permissionless Matters"
     },
     {
       "__outstatic": {
@@ -128,6 +109,25 @@
       "slug": "privacy-policy",
       "status": "draft",
       "title": "Privacy Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "c1824f7f2e51bcd9b19da356c1989752c0f4310c",
+        "hash": "7871874",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "In traditional social media, creators often face restrictions, censorship, and unfair revenue sharing. Swall changes the game by offering a permissionless environment where creators fully control their content, value creation, and distribution. Learn why decentralization is key to the future of content creation.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Decentralized Content Creation: Why Permissionless Matters"
     }
   ]
 }
