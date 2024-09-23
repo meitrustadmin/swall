@@ -1,6 +1,6 @@
 {
-  "commit": "f0ec4e9fbbc913e214477beaa53ec86e3fc5942a",
-  "generated": "2024-09-23T14:40:26.966Z",
+  "commit": "b308521c407c36c2ea3cdadde0437b396ee2cba3",
+  "generated": "2024-09-23T14:47:02.090Z",
   "metadata": [
     {
       "__outstatic": {
@@ -112,8 +112,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f0ec4e9fbbc913e214477beaa53ec86e3fc5942a",
-        "hash": "236029981",
+        "commit": "b308521c407c36c2ea3cdadde0437b396ee2cba3",
+        "hash": "3029406075",
         "path": "outstatic/content/posts/nothing-wrong.md"
       },
       "author": {
