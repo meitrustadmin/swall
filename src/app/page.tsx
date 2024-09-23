@@ -316,6 +316,7 @@ async function getData() {
     ])
     .sort({ publishedAt: -1 })
     .toArray()
+    console.log(JSON.stringify(allPosts))
 
   const allProjects = await db
     .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])
