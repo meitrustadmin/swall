@@ -1,6 +1,6 @@
 ---
 title: 'Decentralized Content Creation: Why Permissionless Matters'
-status: 'published'
+status: 'draft'
 author:
   name: 'Andre Vitorio'
 slug: 'nothing-wrong'
@@ -15,15 +15,3 @@ In today's digital age, content creation is a powerful tool for self-expression,
 \\
 
 But a new era is emerging—where decentralization and permissionless content creation pave the way for a fairer, more empowering creator economy. At the forefront of this shift is Swall, a platform that offers creators full control over their content, value creation, and distribution without needing permission from any centralized authority. Let's explore why decentralization matters and how Swall is changing the game for content creators.
-
-## I love it!
-
-Nothing feels unachievable, when I see you smile and look to the horizon. We can take it, life's short but it's enough time to be happy. Love it.
-
-```javascript
-const life = 'is great'
-let love = 'is essential'
-let happy = 'be'
-```
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
