@@ -5,8 +5,8 @@ author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/182499145?v=4'
 slug: 'decentralized-content-creation-why-permissionless-matters'
-description: ''
-coverImage: '/images/decentralized-content-creation-AxND.png'
+description: 'In traditional social media, creators often face restrictions, censorship, and unfair revenue sharing. Swall changes the game by offering a permissionless environment where creators fully control their content, value creation, and distribution. Learn why decentralization is key to the future of content creation.'
+coverImage: '/images/decentralized-content-creation-gxND.png'
 tags: []
 publishedAt: '2024-09-25T05:47:16.630Z'
 ---
