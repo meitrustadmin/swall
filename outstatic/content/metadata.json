@@ -1,6 +1,6 @@
 {
-  "commit": "94f41de16ef6b048e3d191c4ca259fc2a58d31f8",
-  "generated": "2024-09-25T05:37:07.093Z",
+  "commit": "5948d24972c9996f6344ba821b29598e6f74f8e6",
+  "generated": "2024-09-25T05:37:12.066Z",
   "metadata": [
     {
       "__outstatic": {
@@ -114,8 +114,8 @@
     },
     {
       "__outstatic": {
-        "commit": "94f41de16ef6b048e3d191c4ca259fc2a58d31f8",
-        "hash": "3566199448",
+        "commit": "5948d24972c9996f6344ba821b29598e6f74f8e6",
+        "hash": "1416887852",
         "path": "outstatic/content/faqs/contact-us.md"
       },
       "author": {
@@ -127,7 +127,7 @@
       "description": "",
       "publishedAt": "2024-09-25T06:17:29.955Z",
       "slug": "contact-us",
-      "status": "draft",
+      "status": "published",
       "title": "Contact Us"
     }
   ]
