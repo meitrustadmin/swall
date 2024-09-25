@@ -1,6 +1,6 @@
 ---
 title: 'Decentralized Content Creation: Why Permissionless Matters'
-status: 'published'
+status: 'draft'
 author:
   name: 'Andre Vitorio'
 slug: 'content-creation'
