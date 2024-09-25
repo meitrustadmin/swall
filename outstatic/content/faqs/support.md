@@ -4,7 +4,7 @@ status: 'published'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/182499145?v=4'
-slug: 'contact-us'
+slug: 'support'
 description: ''
 coverImage: ''
 publishedAt: '2024-09-25T06:17:29.955Z'
