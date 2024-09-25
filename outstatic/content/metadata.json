@@ -1,6 +1,6 @@
 {
-  "commit": "9c8d1cc7ef7a77e4d14637d05edeb4efa635c767",
-  "generated": "2024-09-25T05:51:04.938Z",
+  "commit": "bbff3e7f51ed7c06cc346a8e6e529e345e35575c",
+  "generated": "2024-09-25T05:52:37.450Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,37 +19,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "00a54f69ac96079d66fe4f977ad040aa7038b1de",
-        "hash": "2922619733",
-        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/jupiter-spaceship.png",
-      "description": "Memes are more than just entertainment; they're a powerful digital expression. With Swall, content creators can turn their meme channels into valuable digital assets. In this blog, we explore how this transformation is revolutionizing how we think about content ownership and monetization.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "The Future of Memes: Turning Social Channels into Digital Assets"
     },
     {
       "__outstatic": {
@@ -147,6 +116,37 @@
       "tags": [
       ],
       "title": "Decentralized Content Creation: Why Permissionless Matters"
+    },
+    {
+      "__outstatic": {
+        "commit": "bbff3e7f51ed7c06cc346a8e6e529e345e35575c",
+        "hash": "3949306946",
+        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/jupiter-spaceship.png",
+      "description": "Memes are more than just entertainment; they're a powerful digital expression. With Swall, content creators can turn their meme channels into valuable digital assets. In this blog, we explore how this transformation is revolutionizing how we think about content ownership and monetization.",
+      "publishedAt": "2024-03-17T02:34:02.000Z",
+      "slug": "how-to-create-an-outstatic-blog",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "The Future of Memes: Turning Social Channels into Digital Assets"
     }
   ]
 }
