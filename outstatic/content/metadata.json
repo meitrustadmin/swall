@@ -1,6 +1,6 @@
 {
-  "commit": "2a0390da809fad5a62b8cdd2e608d7249d4fb5c5",
-  "generated": "2024-09-25T06:01:19.315Z",
+  "commit": "417cc5632e19a58b3fd8e3be7f1163364a26dc4b",
+  "generated": "2024-09-25T06:06:42.459Z",
   "metadata": [
     {
       "__outstatic": {
@@ -187,6 +187,24 @@
       "tags": [
       ],
       "title": "Peer-to-Peer Promotion: Expanding Your Influence in the Memeverse with Web of Trust and Micro-Rewards"
+    },
+    {
+      "__outstatic": {
+        "commit": "417cc5632e19a58b3fd8e3be7f1163364a26dc4b",
+        "hash": "3985072881",
+        "path": "outstatic/content/pages/peer-to-peer-promotion.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/unlock-growth-with-peer-to-peer-promotion-Y3OD.png",
+      "description": "",
+      "publishedAt": "2024-09-25T06:50:52.495Z",
+      "slug": "peer-to-peer-promotion",
+      "status": "published",
+      "title": "Unlock Growth with Peer-to-Peer Promotion"
     }
   ]
 }
