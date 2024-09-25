@@ -1,6 +1,6 @@
 {
-  "commit": "8077333decfd91331d39dfc9f93d4f7368aa5ab0",
-  "generated": "2024-09-25T06:13:29.188Z",
+  "commit": "a4b7547e2645fc6cc17ebb2c6416eaf2dffff4d5",
+  "generated": "2024-09-25T06:15:19.473Z",
   "metadata": [
     {
       "__outstatic": {
@@ -132,26 +132,6 @@
     },
     {
       "__outstatic": {
-        "commit": "8a4fc9abf9760a806546b0c84ab6bfca7b373c1d",
-        "hash": "3679299145",
-        "path": "outstatic/content/posts/the-power-of-community-in-the-swall-memeverse.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/the-power-of-community-in-the-swall-memeverse-czND.png",
-      "description": "",
-      "publishedAt": "2024-04-16T06:45:35.000Z",
-      "slug": "the-power-of-community-in-the-swall-memeverse",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "The Power of Community in the Swall Memeverse"
-    },
-    {
-      "__outstatic": {
         "commit": "417cc5632e19a58b3fd8e3be7f1163364a26dc4b",
         "hash": "3985072881",
         "path": "outstatic/content/pages/peer-to-peer-promotion.md"
@@ -205,6 +185,26 @@
       "tags": [
       ],
       "title": "Peer-to-Peer Promotion: Expanding Your Influence in the Memeverse with Web of Trust and Micro-Rewards"
+    },
+    {
+      "__outstatic": {
+        "commit": "a4b7547e2645fc6cc17ebb2c6416eaf2dffff4d5",
+        "hash": "2033855711",
+        "path": "outstatic/content/posts/the-power-of-community-in-the-swall-memeverse.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/the-power-of-community-in-the-swall-memeverse-czND.png",
+      "description": "",
+      "publishedAt": "2024-04-16T06:45:35.000Z",
+      "slug": "the-power-of-community-in-the-swall-memeverse",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "The Power of Community in the Swall Memeverse"
     }
   ]
 }
