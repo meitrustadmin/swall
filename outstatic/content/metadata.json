@@ -1,6 +1,6 @@
 {
-  "commit": "2fe5181b5fbd62b3fe8fd5724b31a885c432d082",
-  "generated": "2024-09-25T04:58:29.750Z",
+  "commit": "634f73e72a3ac60ca2bb4efd1d3810e09ba3ffeb",
+  "generated": "2024-09-25T04:59:12.225Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,25 +91,6 @@
       "slug": "term-of-use",
       "status": "draft",
       "title": "Term of Use"
-    },
-    {
-      "__outstatic": {
-        "commit": "2fe5181b5fbd62b3fe8fd5724b31a885c432d082",
-        "hash": "687348517",
-        "path": "outstatic/content/posts/content-creation.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "In traditional social media, creators often face restrictions, censorship, and unfair revenue sharing. Swall changes the game by offering a permissionless environment where creators fully control their content, value creation, and distribution. Learn why decentralization is key to the future of content creation.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "content-creation",
-      "status": "draft",
-      "tags": [
-      ],
-      "title": "Decentralized Content Creation: Why Permissionless Matters"
     }
   ]
 }
