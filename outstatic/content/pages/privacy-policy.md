@@ -7,7 +7,7 @@ author:
 slug: 'privacy-policy'
 description: ''
 coverImage: ''
-publishedAt: '2024-09-22T08:37:40.769Z'
+publishedAt: '2024-09-01T08:37:40.000Z'
 ---
 
 Effective Date: 1st September 2024\
