@@ -12,6 +12,8 @@ publishedAt: '2024-09-25T06:17:29.955Z'
 
 Have questions or need assistance? Our support team is here to help. Whether you’re a new user or a seasoned creator, we’re here to ensure your Swall experience is smooth and enjoyable.
 
+` Join Swall Channel`
+
 ## FAQs
 
 **1. What is Swall and how does it work?**\

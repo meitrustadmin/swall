@@ -1,6 +1,6 @@
 {
-  "commit": "9200000fe098f0f153ad9019be7f72cd9e9069b2",
-  "generated": "2024-09-25T06:17:17.747Z",
+  "commit": "1d2b95b413230a45cb5d815efceb234e7c4c3946",
+  "generated": "2024-09-25T06:19:34.206Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "5948d24972c9996f6344ba821b29598e6f74f8e6",
-        "hash": "783542281",
-        "path": "outstatic/content/faqs/support.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
-      },
-      "collection": "faqs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-09-25T06:17:29.955Z",
-      "slug": "support",
-      "status": "published",
-      "title": "Contact Us"
     },
     {
       "__outstatic": {
@@ -201,6 +183,24 @@
       "tags": [
       ],
       "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
+    },
+    {
+      "__outstatic": {
+        "commit": "1d2b95b413230a45cb5d815efceb234e7c4c3946",
+        "hash": "1294903878",
+        "path": "outstatic/content/faqs/support.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
+      },
+      "collection": "faqs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-25T06:17:29.955Z",
+      "slug": "support",
+      "status": "published",
+      "title": "Contact Us"
     }
   ]
 }
