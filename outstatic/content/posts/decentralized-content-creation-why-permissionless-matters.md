@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/182499145?v=4'
 slug: 'decentralized-content-creation-why-permissionless-matters'
 description: ''
-coverImage: ''
+coverImage: '/images/decentralized-content-creation-AxND.png'
 tags: []
 publishedAt: '2024-09-25T05:47:16.630Z'
 ---
