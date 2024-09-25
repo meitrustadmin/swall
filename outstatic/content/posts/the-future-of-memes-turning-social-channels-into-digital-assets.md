@@ -6,7 +6,7 @@ coverImage: '/images/the-future-of-memes-Y0Mz.png'
 tags: [{"label":"NextJs","value":"nextJs"},{"label":"GitHub","value":"gitHub"},{"label":"Outstatic","value":"outstatic"}]
 author:
   name: 'Andre Vitorio'
-slug: 'how-to-create-an-outstatic-blog'
+slug: 'the-future-of-memes-turning-social-channels-into-digital-assets'
 publishedAt: '2024-03-17T02:34:02.000Z'
 ---
 

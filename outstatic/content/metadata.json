@@ -1,6 +1,6 @@
 {
-  "commit": "7ac7b795d2ab6f7db31dc8f72e0eb4934d872771",
-  "generated": "2024-09-25T05:53:47.343Z",
+  "commit": "890fe697e6298f092d400fd4c2442570b9abcaf0",
+  "generated": "2024-09-25T05:56:53.314Z",
   "metadata": [
     {
       "__outstatic": {
@@ -96,37 +96,6 @@
     },
     {
       "__outstatic": {
-        "commit": "bbff3e7f51ed7c06cc346a8e6e529e345e35575c",
-        "hash": "402832668",
-        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/the-future-of-memes-Y0Mz.png",
-      "description": "Memes are more than just entertainment; they're a powerful digital expression. With Swall, content creators can turn their meme channels into valuable digital assets. In this blog, we explore how this transformation is revolutionizing how we think about content ownership and monetization.",
-      "publishedAt": "2024-03-17T02:34:02.000Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "The Future of Memes: Turning Social Channels into Digital Assets"
-    },
-    {
-      "__outstatic": {
         "commit": "7ac7b795d2ab6f7db31dc8f72e0eb4934d872771",
         "hash": "96405841",
         "path": "outstatic/content/posts/the-wrong-decision.md"
@@ -147,6 +116,37 @@
         }
       ],
       "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
+    },
+    {
+      "__outstatic": {
+        "commit": "890fe697e6298f092d400fd4c2442570b9abcaf0",
+        "hash": "3085809833",
+        "path": "outstatic/content/posts/the-future-of-memes-turning-social-channels-into-digital-assets.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/the-future-of-memes-Y0Mz.png",
+      "description": "Memes are more than just entertainment; they're a powerful digital expression. With Swall, content creators can turn their meme channels into valuable digital assets. In this blog, we explore how this transformation is revolutionizing how we think about content ownership and monetization.",
+      "publishedAt": "2024-03-17T02:34:02.000Z",
+      "slug": "the-future-of-memes-turning-social-channels-into-digital-assets",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "The Future of Memes: Turning Social Channels into Digital Assets"
     }
   ]
 }
