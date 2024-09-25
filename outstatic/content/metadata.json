@@ -1,6 +1,6 @@
 {
-  "commit": "5948d24972c9996f6344ba821b29598e6f74f8e6",
-  "generated": "2024-09-25T05:37:25.912Z",
+  "commit": "eed8722df77940bd9af3d9149ba1592b6d472363",
+  "generated": "2024-09-25T05:49:45.008Z",
   "metadata": [
     {
       "__outstatic": {
@@ -129,6 +129,24 @@
       "slug": "support",
       "status": "published",
       "title": "Contact Us"
+    },
+    {
+      "__outstatic": {
+        "commit": "eed8722df77940bd9af3d9149ba1592b6d472363",
+        "hash": "1844362112",
+        "path": "outstatic/content/pages/privacy-policy.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/181721044?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-22T08:37:40.769Z",
+      "slug": "privacy-policy",
+      "status": "published",
+      "title": "Privacy Policy"
     }
   ]
 }
