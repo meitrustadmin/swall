@@ -5,7 +5,7 @@ author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/182499145?v=4'
 slug: 'peer-to-peer-promotion-expanding-your-influence-in-the-memeverse-with-web-of-trust-and-micro-rewards'
-description: ''
+description: 'Swall''s powerful peer-to-peer promotion system allows creators and community members to supercharge their influence and earnings by building a web of trust and earning micro-rewards with every shared promotion link. Unlock viral growth and amplify your impact as referrers and referees are rewarded in this dynamic, community-driven Memeverse!'
 coverImage: '/images/peer-to-peer-promotion-IwOD.png'
 tags: []
 publishedAt: '2024-05-28T06:48:18.000Z'
