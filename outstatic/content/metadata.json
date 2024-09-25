@@ -1,6 +1,6 @@
 {
-  "commit": "483b1b70528ca1caa70187fea4b18279d1c1510e",
-  "generated": "2024-09-25T05:25:05.936Z",
+  "commit": "94f41de16ef6b048e3d191c4ca259fc2a58d31f8",
+  "generated": "2024-09-25T05:37:07.093Z",
   "metadata": [
     {
       "__outstatic": {
@@ -111,6 +111,24 @@
       "tags": [
       ],
       "title": "Decentralized Content Creation: Why Permissionless Matters"
+    },
+    {
+      "__outstatic": {
+        "commit": "94f41de16ef6b048e3d191c4ca259fc2a58d31f8",
+        "hash": "3566199448",
+        "path": "outstatic/content/faqs/contact-us.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
+      },
+      "collection": "faqs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-25T06:17:29.955Z",
+      "slug": "contact-us",
+      "status": "draft",
+      "title": "Contact Us"
     }
   ]
 }
