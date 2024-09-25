@@ -1,6 +1,6 @@
 {
-  "commit": "bbff3e7f51ed7c06cc346a8e6e529e345e35575c",
-  "generated": "2024-09-25T05:52:46.633Z",
+  "commit": "7ac7b795d2ab6f7db31dc8f72e0eb4934d872771",
+  "generated": "2024-09-25T05:53:47.343Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,29 +19,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "b90c560e741fcf32e22aa4bec11ff495cb4b362b",
-        "hash": "239691078",
-        "path": "outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Understanding the bonding curve is essential to maximizing your earnings on Swall. This blog breaks down the concept in simple terms, explaining how it works, why it benefits creators, and how followers can engage with it to support their favorite channels.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
     },
     {
       "__outstatic": {
@@ -147,6 +124,29 @@
         }
       ],
       "title": "The Future of Memes: Turning Social Channels into Digital Assets"
+    },
+    {
+      "__outstatic": {
+        "commit": "7ac7b795d2ab6f7db31dc8f72e0eb4934d872771",
+        "hash": "96405841",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/monetizing-memes-cwOT.png",
+      "description": "Understanding the bonding curve is essential to maximizing your earnings on Swall. This blog breaks down the concept in simple terms, explaining how it works, why it benefits creators, and how followers can engage with it to support their favorite channels.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
     }
   ]
 }
