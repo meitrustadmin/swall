@@ -1,6 +1,6 @@
 {
-  "commit": "eed8722df77940bd9af3d9149ba1592b6d472363",
-  "generated": "2024-09-25T05:49:52.395Z",
+  "commit": "a5f02fd7dcc8bd92bc8f8194fece707abed93d30",
+  "generated": "2024-09-25T05:50:21.083Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,24 +76,6 @@
     },
     {
       "__outstatic": {
-        "commit": "4bc23d65eea51e31ba2b563ee04c49ea96a2f07a",
-        "hash": "3071418776",
-        "path": "outstatic/content/pages/term-of-use.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/181721044?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-09-22T08:35:33.967Z",
-      "slug": "term-of-use",
-      "status": "draft",
-      "title": "Term of Use"
-    },
-    {
-      "__outstatic": {
         "commit": "483b1b70528ca1caa70187fea4b18279d1c1510e",
         "hash": "139421218",
         "path": "outstatic/content/posts/decentralized-content-creation-why-permissionless-matters.md"
@@ -147,6 +129,24 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "a5f02fd7dcc8bd92bc8f8194fece707abed93d30",
+        "hash": "1020365903",
+        "path": "outstatic/content/pages/term-of-use.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/181721044?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-01T08:35:33.000Z",
+      "slug": "term-of-use",
+      "status": "published",
+      "title": "Term of Use"
     }
   ]
 }
