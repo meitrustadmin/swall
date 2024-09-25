@@ -1,6 +1,6 @@
 {
-  "commit": "890fe697e6298f092d400fd4c2442570b9abcaf0",
-  "generated": "2024-09-25T05:56:53.314Z",
+  "commit": "d60cb15015526e2f4fe33ce2acd14428d7d3a751",
+  "generated": "2024-09-25T05:57:26.996Z",
   "metadata": [
     {
       "__outstatic": {
@@ -96,29 +96,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7ac7b795d2ab6f7db31dc8f72e0eb4934d872771",
-        "hash": "96405841",
-        "path": "outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/monetizing-memes-cwOT.png",
-      "description": "Understanding the bonding curve is essential to maximizing your earnings on Swall. This blog breaks down the concept in simple terms, explaining how it works, why it benefits creators, and how followers can engage with it to support their favorite channels.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
-    },
-    {
-      "__outstatic": {
         "commit": "890fe697e6298f092d400fd4c2442570b9abcaf0",
         "hash": "3085809833",
         "path": "outstatic/content/posts/the-future-of-memes-turning-social-channels-into-digital-assets.md"
@@ -147,6 +124,29 @@
         }
       ],
       "title": "The Future of Memes: Turning Social Channels into Digital Assets"
+    },
+    {
+      "__outstatic": {
+        "commit": "d60cb15015526e2f4fe33ce2acd14428d7d3a751",
+        "hash": "400087577",
+        "path": "outstatic/content/posts/monetizing-memes-how-to-use-swalls-bonding-curve.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/monetizing-memes-cwOT.png",
+      "description": "Understanding the bonding curve is essential to maximizing your earnings on Swall. This blog breaks down the concept in simple terms, explaining how it works, why it benefits creators, and how followers can engage with it to support their favorite channels.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "monetizing-memes-how-to-use-swalls-bonding-curve",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
     }
   ]
 }
