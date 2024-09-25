@@ -6,7 +6,7 @@ coverImage: '/images/monetizing-memes-cwOT.png'
 author:
   name: 'Naval Ravikant'
 slug: 'monetizing-memes-how-to-use-swalls-bonding-curve'
-tags: [{"value":"outstatic","label":"Outstatic"}]
+tags: []
 publishedAt: '2022-03-26T05:35:07.322Z'
 ---
 

@@ -1,6 +1,6 @@
 {
   "commit": "9200000fe098f0f153ad9019be7f72cd9e9069b2",
-  "generated": "2024-09-25T06:17:10.633Z",
+  "generated": "2024-09-25T06:17:17.747Z",
   "metadata": [
     {
       "__outstatic": {
@@ -186,7 +186,7 @@
     {
       "__outstatic": {
         "commit": "9200000fe098f0f153ad9019be7f72cd9e9069b2",
-        "hash": "3156670761",
+        "hash": "1670026034",
         "path": "outstatic/content/posts/monetizing-memes-how-to-use-swalls-bonding-curve.md"
       },
       "author": {
@@ -199,10 +199,6 @@
       "slug": "monetizing-memes-how-to-use-swalls-bonding-curve",
       "status": "published",
       "tags": [
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
       ],
       "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
     }
