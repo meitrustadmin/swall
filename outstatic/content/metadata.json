@@ -1,6 +1,6 @@
 {
-  "commit": "417cc5632e19a58b3fd8e3be7f1163364a26dc4b",
-  "generated": "2024-09-25T06:06:42.459Z",
+  "commit": "ed7f07a4251b23666e77941789b8e76c089e464d",
+  "generated": "2024-09-25T06:08:41.052Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "support",
       "status": "published",
       "title": "Contact Us"
-    },
-    {
-      "__outstatic": {
-        "commit": "eed8722df77940bd9af3d9149ba1592b6d472363",
-        "hash": "268700769",
-        "path": "outstatic/content/pages/privacy-policy.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/181721044?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-09-01T08:37:40.000Z",
-      "slug": "privacy-policy",
-      "status": "published",
-      "title": "Privacy Policy"
     },
     {
       "__outstatic": {
@@ -205,6 +187,24 @@
       "slug": "peer-to-peer-promotion",
       "status": "published",
       "title": "Unlock Growth with Peer-to-Peer Promotion"
+    },
+    {
+      "__outstatic": {
+        "commit": "ed7f07a4251b23666e77941789b8e76c089e464d",
+        "hash": "3333614450",
+        "path": "outstatic/content/pages/privacy-policy.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/181721044?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-01T08:37:40.000Z",
+      "slug": "privacy-policy",
+      "status": "published",
+      "title": "Privacy Policy"
     }
   ]
 }
