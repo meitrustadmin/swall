@@ -1,6 +1,6 @@
 {
-  "commit": "38757b4181cf1fdb6d867ca7d8738f6ef7783965",
-  "generated": "2024-09-25T05:58:37.163Z",
+  "commit": "8a4fc9abf9760a806546b0c84ab6bfca7b373c1d",
+  "generated": "2024-09-25T06:00:03.640Z",
   "metadata": [
     {
       "__outstatic": {
@@ -150,8 +150,8 @@
     },
     {
       "__outstatic": {
-        "commit": "38757b4181cf1fdb6d867ca7d8738f6ef7783965",
-        "hash": "104204725",
+        "commit": "8a4fc9abf9760a806546b0c84ab6bfca7b373c1d",
+        "hash": "3679299145",
         "path": "outstatic/content/posts/the-power-of-community-in-the-swall-memeverse.md"
       },
       "author": {
@@ -161,7 +161,7 @@
       "collection": "posts",
       "coverImage": "/images/the-power-of-community-in-the-swall-memeverse-czND.png",
       "description": "",
-      "publishedAt": "2024-05-16T06:45:35.000Z",
+      "publishedAt": "2024-04-16T06:45:35.000Z",
       "slug": "the-power-of-community-in-the-swall-memeverse",
       "status": "published",
       "tags": [
