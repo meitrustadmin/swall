@@ -1,6 +1,6 @@
 {
-  "commit": "1d2b95b413230a45cb5d815efceb234e7c4c3946",
-  "generated": "2024-09-25T06:21:48.803Z",
+  "commit": "404a611537f689f744cf08212185cd8a84821e50",
+  "generated": "2024-09-25T06:25:19.850Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,26 +37,6 @@
       "slug": "term-of-use",
       "status": "published",
       "title": "Term of Use"
-    },
-    {
-      "__outstatic": {
-        "commit": "9c8d1cc7ef7a77e4d14637d05edeb4efa635c767",
-        "hash": "3280856858",
-        "path": "outstatic/content/posts/decentralized-content-creation-why-permissionless-matters.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/decentralized-content-creation-gxND.png",
-      "description": "In traditional social media, creators often face restrictions, censorship, and unfair revenue sharing. Swall changes the game by offering a permissionless environment where creators fully control their content, value creation, and distribution. Learn why decentralization is key to the future of content creation.",
-      "publishedAt": "2024-03-18T05:47:16.000Z",
-      "slug": "decentralized-content-creation-why-permissionless-matters",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Decentralized Content Creation: Why Permissionless Matters"
     },
     {
       "__outstatic": {
@@ -201,6 +181,26 @@
       "slug": "support",
       "status": "published",
       "title": "Contact Us"
+    },
+    {
+      "__outstatic": {
+        "commit": "404a611537f689f744cf08212185cd8a84821e50",
+        "hash": "3280856858",
+        "path": "outstatic/content/posts/decentralized-content-creation-why-permissionless-matters.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/decentralized-content-creation-gxND.png",
+      "description": "In traditional social media, creators often face restrictions, censorship, and unfair revenue sharing. Swall changes the game by offering a permissionless environment where creators fully control their content, value creation, and distribution. Learn why decentralization is key to the future of content creation.",
+      "publishedAt": "2024-03-18T05:47:16.000Z",
+      "slug": "decentralized-content-creation-why-permissionless-matters",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Decentralized Content Creation: Why Permissionless Matters"
     }
   ]
 }
