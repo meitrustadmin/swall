@@ -1,6 +1,6 @@
 {
-  "commit": "44289606d9968382e7ad177ddf2c8444b60c89fa",
-  "generated": "2024-09-25T05:00:51.671Z",
+  "commit": "2236248fdece55324129c17bfddecab1f289c1bf",
+  "generated": "2024-09-25T05:04:18.105Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,8 +94,8 @@
     },
     {
       "__outstatic": {
-        "commit": "44289606d9968382e7ad177ddf2c8444b60c89fa",
-        "hash": "3443556365",
+        "commit": "2236248fdece55324129c17bfddecab1f289c1bf",
+        "hash": "2959666154",
         "path": "outstatic/content/posts/decentralized-content-creation-why-permissionless-matters.md"
       },
       "author": {
