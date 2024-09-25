@@ -1,6 +1,6 @@
 {
-  "commit": "d60cb15015526e2f4fe33ce2acd14428d7d3a751",
-  "generated": "2024-09-25T05:57:26.996Z",
+  "commit": "38757b4181cf1fdb6d867ca7d8738f6ef7783965",
+  "generated": "2024-09-25T05:58:37.163Z",
   "metadata": [
     {
       "__outstatic": {
@@ -147,6 +147,26 @@
         }
       ],
       "title": "Monetizing Memes: How to Use Swall’s Bonding Curve"
+    },
+    {
+      "__outstatic": {
+        "commit": "38757b4181cf1fdb6d867ca7d8738f6ef7783965",
+        "hash": "104204725",
+        "path": "outstatic/content/posts/the-power-of-community-in-the-swall-memeverse.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/the-power-of-community-in-the-swall-memeverse-czND.png",
+      "description": "",
+      "publishedAt": "2024-05-16T06:45:35.000Z",
+      "slug": "the-power-of-community-in-the-swall-memeverse",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "The Power of Community in the Swall Memeverse"
     }
   ]
 }
