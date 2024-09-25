@@ -1,6 +1,6 @@
 {
-  "commit": "634f73e72a3ac60ca2bb4efd1d3810e09ba3ffeb",
-  "generated": "2024-09-25T04:59:12.225Z",
+  "commit": "f1ed909448bbcb326f694c45093836094a04f863",
+  "generated": "2024-09-25T05:00:46.553Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,6 +91,26 @@
       "slug": "term-of-use",
       "status": "draft",
       "title": "Term of Use"
+    },
+    {
+      "__outstatic": {
+        "commit": "f1ed909448bbcb326f694c45093836094a04f863",
+        "hash": "3096549174",
+        "path": "outstatic/content/posts/decentralized-content-creation-why-permissionless-matters.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/182499145?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-25T05:47:16.630Z",
+      "slug": "decentralized-content-creation-why-permissionless-matters",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Decentralized Content Creation: Why Permissionless Matters"
     }
   ]
 }
